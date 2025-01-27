@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(8, 8, 73);
+}
+.conteiner {
+  border: 3px solid black;
+  padding: 20px;
+  border-radius: 10px;
+}
+.title {
+  margin-left: 170px;
+  margin-right: 170px;
+  color: rgb(19, 156, 156);
+  border-bottom: 1px solid rgb(19, 156, 156);
+}
+#research input {
+  background-color: rgb(7, 71, 15);
+  padding: 15px 20px;
+}
+#research button {
+  padding: 15px 20px;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+#list {
+  background-color: rgb(46, 127, 198);
+  padding: 100px;
+  margin-top: 20px;
+  margin-right: 265px;
+}
